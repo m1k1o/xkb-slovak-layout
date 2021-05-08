@@ -25,7 +25,7 @@ Apply new layout.
 setxkbmap sk
 ```
 
-## Alternative installation
+## Alternative installation
 
 Or you can just apply patch.
 
